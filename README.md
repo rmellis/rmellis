@@ -57,10 +57,10 @@
     <kbd>Tools</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="30px" src="https://i.imgur.com/HG9n7P7.png" />
+    <img width="30px" src="https://i.imgur.com/Hq6VejT.png" />
+    <img width="30px" src="https://i.imgur.com/fmb3D2R.png" />
+    <img width="30px" src="https://i.imgur.com/kZF1rLT.png" />
   </kbd>
    <kbd>
     <kbd>Game Development</kbd>
