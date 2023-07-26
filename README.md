@@ -84,13 +84,24 @@
     <img width="30px" src="https://i.imgur.com/aHdeZza.png" />
   </kbd>
   </kbd>
-</p><table width="100%" border="0">
+</p>
+
+<table width="100%" border="0">
   <tbody>
     <tr>
-      <td><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=rmellis" width="100%" /></td>
-      <td><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rmellis" width="100%" style="margin-right: 5px"/></td>
+      <td colspan="2"><img alt="Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmellis&theme=vue" width="100%" /></td>
+      <td width="33%">test</td>
+    </tr>
+    <tr>
+      <td width="48%"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=rmellis" width="100%" /></td>
+      <td colspan="2"><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rmellis" width="100%" style="margin-right: 5px"/></td>
+    </tr>
+    <tr>
+      <td colspan="3">&nbsp;</td>
     </tr>
   </tbody>
+</table>
+  
  
 <!--
 **rmellis/rmellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
