@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=rmellis" width="47%" /> <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rmellis" width="52%" style="margin-right: 5px"/>
 <!--
 **rmellis/rmellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
