@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-<p style="display: inline-block;" align="center">
+
+
+<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td colspan="3"><p style="display: inline-block;" align="center"><br>
   <kbd>
     <kbd>Scripting & Programming Languages</kbd>
     <br>
@@ -84,13 +89,14 @@
     <img width="30px" src="https://i.imgur.com/aHdeZza.png" />
   </kbd>
   </kbd>
-</p>
-
-<table width="100%" border="0">
-  <tbody>
+</p><br></td>
+    </tr>
     <tr>
       <td colspan="2"><img alt="Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmellis&theme=vue" width="100%" /></td>
-      <td width="33%">test</td>
+      <td width="33%"><img alt="Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rmellis&theme=github" width="100%" /></td>
+    </tr>
+    <tr>
+      <td colspan="3">&nbsp;</td>
     </tr>
     <tr>
       <td width="48%"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=rmellis" width="100%" /></td>
