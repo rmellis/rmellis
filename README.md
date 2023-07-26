@@ -61,12 +61,15 @@
     <img width="30px" src="https://i.imgur.com/Hq6VejT.png" />
     <img width="30px" src="https://i.imgur.com/fmb3D2R.png" />
     <img width="30px" src="https://i.imgur.com/kZF1rLT.png" />
+    <img width="30px" src="https://i.imgur.com/aALBHvo.png" />
+    <img width="30px" src="https://i.imgur.com/m8tzm2p.png" />
+    <img width="30px" src="https://i.imgur.com/OTZzEEc.png" />
+    <img width="30px" src="https://i.imgur.com/PSR9dAy.png" />
+    <img width="30px" src="https://i.imgur.com/gfeIgdU.png" />
+    <img width="30px" src="https://i.imgur.com/c7M9lGx.png" />
+    <img width="30px" src="https://i.imgur.com/aZoYC1t.png" />
+    <img width="30px" src="https://i.imgur.com/1mkBkP5.png" />
   </kbd>
-   <kbd>
-    <kbd>Game Development</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   </kbd>
 </p>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=rmellis" width="47%" /> <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rmellis" width="52%" style="margin-right: 5px"/>
