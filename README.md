@@ -37,31 +37,21 @@
     <img width="30px" src="https://i.imgur.com/lIvwJ6m.png" />
   </kbd>
   <br>
-  <br>
+  <br> 
   <kbd>
-    <kbd>Data Science & AI</kbd>
+    <kbd>Systems, Networking & Deployment</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  </kbd>
- 
-  <kbd>
-    <kbd>System, Networking & Deployment</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Terminal Scripts</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+    <img width="30px" src="https://i.imgur.com/Kg5y5YL.png" />
+    <img width="30px" src="https://i.imgur.com/BSA5q1x.png" />
+    <img width="30px" src="https://i.imgur.com/wRb7WCZ.png" />
+    <img width="30px" src="https://i.imgur.com/W7RAwu5.png" />
+    <img width="30px" src="https://i.imgur.com/OQCwQHg.png" />
+    <img width="30px" src="https://i.imgur.com/mqDelqW.png" />
+    <img width="30px" src="https://i.imgur.com/7Uc8d8J.png" />
+    <img width="30px" src="https://i.imgur.com/tQEiyK0.png" />
+    <img width="30px" src="https://i.imgur.com/0S53w0n.png" />
+    <img width="30px" src="https://i.imgur.com/yX9J9A4.png" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
