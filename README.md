@@ -20,6 +20,7 @@
     <img width="30px" src="https://i.imgur.com/Neygwaj.png" />
     <img width="30px" src="https://i.imgur.com/cJ2TYUN.png" />
     <img width="30px" src="https://i.imgur.com/DQYG8e4.png" />
+    <img width="30px" src="https://i.imgur.com/8YadHrp.png" />
   </kbd>
   <kbd>
     <kbd>Front-end Markup</kbd>
@@ -35,6 +36,14 @@
     <br>
     <img width="30px" src="https://i.imgur.com/qeIxqt4.png" />
     <img width="30px" src="https://i.imgur.com/lIvwJ6m.png" />
+  </kbd>
+  <kbd>
+    <kbd>Certifications</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://i.imgur.com/eTklj5A.png" />
+    <img width="30px" src="https://i.imgur.com/gJRsCYv.png" />
+    <img width="30px" src="https://i.imgur.com/YEcK0Dc.png" />
   </kbd>
   <br>
   <br> 
@@ -54,7 +63,7 @@
     <img width="30px" src="https://i.imgur.com/yX9J9A4.png" />
   </kbd>
   <kbd>
-    <kbd>Tools</kbd>
+    <kbd>Tools.. and other technologies</kbd>
     <br>
     <br>
     <img width="30px" src="https://i.imgur.com/HG9n7P7.png" />
@@ -69,6 +78,10 @@
     <img width="30px" src="https://i.imgur.com/c7M9lGx.png" />
     <img width="30px" src="https://i.imgur.com/aZoYC1t.png" />
     <img width="30px" src="https://i.imgur.com/1mkBkP5.png" />
+    <img width="30px" src="https://i.imgur.com/JYImvYf.png" />
+    <img width="30px" src="https://i.imgur.com/3QUwmbm.png" />
+    <img width="30px" src="https://i.imgur.com/2ZVI2Mr.png" />
+    <img width="30px" src="https://i.imgur.com/aHdeZza.png" />
   </kbd>
   </kbd>
 </p><table width="100%" border="0">
