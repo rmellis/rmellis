@@ -65,7 +65,7 @@ My current main project is <a href="https://github.com/rmellis/HelpUKR-master" t
     <img width="30px" src="https://i.imgur.com/tQEiyK0.png" />
     <img width="30px" src="https://i.imgur.com/0S53w0n.png" />
     <img width="30px" src="https://i.imgur.com/yX9J9A4.png" />
-  </kbd>
+  </kbd><br><br>
   <kbd>
     <kbd>Tools.. and other technologies</kbd>
     <br>
