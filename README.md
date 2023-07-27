@@ -96,7 +96,7 @@ My current main project is <a href="https://github.com/rmellis/HelpUKR-master" t
       <td width="33%"><img alt="Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rmellis&theme=github" width="100%" /></td>
     </tr>
     <tr>
-      <td colspan="3">tttttttttttttttttt</td>
+      <td colspan="3"></td>
     </tr>
     <tr>
       <td width="48%"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=rmellis" width="100%" /></td>
