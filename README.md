@@ -60,6 +60,8 @@ My current main project is <a href="https://github.com/rmellis/HelpUKR-master" t
     <img width="30px" src="https://i.imgur.com/wRb7WCZ.png" />
     <img width="30px" src="https://i.imgur.com/W7RAwu5.png" />
     <img width="30px" src="https://i.imgur.com/RNmBW8s.png" />
+    <img width="30px" src="https://i.imgur.com/h92EyQJ.png" />
+    <img width="30px" src="https://i.imgur.com/num3U9h.png" />
     <img width="30px" src="https://i.imgur.com/OQCwQHg.png" />
     <img width="30px" src="https://i.imgur.com/mqDelqW.png" />
     <img width="30px" src="https://i.imgur.com/7Uc8d8J.png" />
