@@ -3,7 +3,7 @@
     <tr>
       <td colspan="3"><span style="font-size:20px"><strong>Hello 👋 </strong>I&#39;m<strong> rmellis. </strong>I make and contribute to a lot of software, manage lots of server things and create websites.<br />
 I&#39;ve worked with all aspects of computers, both hardware and software for over 15 years and I am very confident with most things.<br />
-My current main project is <a href="https://github.com/rmellis/HelpUKR-master" target="_blank"><strong><em>rmellis/HelpUKR-Master</em></strong></a>, A project that allows people to flood russian propaanda using targets set by the IT Army of Ukraine from any device with a browser using the url <a href="http://www.HelpUKR.xyz">www.HelpUKR.xyz</a><br />
+My current main project is <a href="https://github.com/rmellis/HelpUKR-master" target="_blank"><strong><em>rmellis/HelpUKR-Master</em></strong></a>, A project that allows people to flood russian propaganda using targets set by the IT Army of Ukraine from any device with a browser using the url <a href="http://www.HelpUKR.xyz">www.HelpUKR.xyz</a><br />
 <strong> &nbsp; &nbsp; &nbsp; Below is a cobbled together list of some stuff I&#39;m furmilliar with:</strong></span><p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Scripting & Programming Languages</kbd>
