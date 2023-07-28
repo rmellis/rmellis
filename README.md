@@ -59,6 +59,9 @@ My current main project is <a href="https://github.com/rmellis/HelpUKR-master" t
     <img width="30px" src="https://i.imgur.com/BSA5q1x.png" />
     <img width="30px" src="https://i.imgur.com/wRb7WCZ.png" />
     <img width="30px" src="https://i.imgur.com/W7RAwu5.png" />
+    <img width="30px" src="https://i.imgur.com/RNmBW8s.png" />
+    <img width="30px" src="https://i.imgur.com/h92EyQJ.png" />
+    <img width="30px" src="https://i.imgur.com/num3U9h.png" />
     <img width="30px" src="https://i.imgur.com/OQCwQHg.png" />
     <img width="30px" src="https://i.imgur.com/mqDelqW.png" />
     <img width="30px" src="https://i.imgur.com/7Uc8d8J.png" />
@@ -69,6 +72,8 @@ My current main project is <a href="https://github.com/rmellis/HelpUKR-master" t
     <img width="30px" src="https://i.imgur.com/9SYxvuZ.png" />
     <img width="30px" src="https://i.imgur.com/blHqzNC.png" />
     <img width="30px" src="https://i.imgur.com/GQsYRKR.png" />
+    <img width="30px" src="https://i.imgur.com/S2NV5II.png" />
+    <img width="30px" src="https://i.imgur.com/ugtKyf5.png" />
   </kbd><br><br>
   <kbd>
     <kbd>Tools.. and other technologies</kbd>
@@ -84,12 +89,14 @@ My current main project is <a href="https://github.com/rmellis/HelpUKR-master" t
     <img width="30px" src="https://i.imgur.com/PSR9dAy.png" />
     <img width="30px" src="https://i.imgur.com/gfeIgdU.png" />
     <img width="30px" src="https://i.imgur.com/c7M9lGx.png" />
+    <img width="30px" src="https://i.imgur.com/5WFOch6.png" />
     <img width="30px" src="https://i.imgur.com/aZoYC1t.png" />
     <img width="30px" src="https://i.imgur.com/1mkBkP5.png" />
     <img width="30px" src="https://i.imgur.com/JYImvYf.png" />
     <img width="30px" src="https://i.imgur.com/3QUwmbm.png" />
     <img width="30px" src="https://i.imgur.com/2ZVI2Mr.png" />
     <img width="30px" src="https://i.imgur.com/aHdeZza.png" />
+    <img width="30px" src="https://i.imgur.com/aAfRg89.png" />
   </kbd>
   </kbd>
 </p>
