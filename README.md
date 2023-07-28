@@ -93,7 +93,7 @@ My current main project is <a href="https://github.com/rmellis/HelpUKR-master" t
   </kbd>
   </kbd>
 </p>
-  <p style="text-align:center"><span style="font-size:20px">Below are some statistics for my GitHub usage, contributions, start, commits, Pull Requests and issues:</span></p></td>
+  <p style="text-align:center"><span style="font-size:20px">Below are some statistics for my GitHub usage, contributions, commits, Pull Requests and issues:</span></p></td>
     </tr>
     <tr>
       <td colspan="2"><img alt="Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmellis&theme=vue" width="100%" /></td>
