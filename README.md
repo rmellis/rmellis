@@ -73,6 +73,7 @@ My current main project is <a href="https://github.com/rmellis/HelpUKR-master" t
     <img width="30px" src="https://i.imgur.com/blHqzNC.png" />
     <img width="30px" src="https://i.imgur.com/GQsYRKR.png" />
     <img width="30px" src="https://i.imgur.com/S2NV5II.png" />
+    <img width="30px" src="https://i.imgur.com/ugtKyf5.png" />
   </kbd><br><br>
   <kbd>
     <kbd>Tools.. and other technologies</kbd>
@@ -88,6 +89,7 @@ My current main project is <a href="https://github.com/rmellis/HelpUKR-master" t
     <img width="30px" src="https://i.imgur.com/PSR9dAy.png" />
     <img width="30px" src="https://i.imgur.com/gfeIgdU.png" />
     <img width="30px" src="https://i.imgur.com/c7M9lGx.png" />
+    <img width="30px" src="https://i.imgur.com/5WFOch6.png" />
     <img width="30px" src="https://i.imgur.com/aZoYC1t.png" />
     <img width="30px" src="https://i.imgur.com/1mkBkP5.png" />
     <img width="30px" src="https://i.imgur.com/JYImvYf.png" />
