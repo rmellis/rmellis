@@ -69,6 +69,7 @@ My current main project is <a href="https://github.com/rmellis/HelpUKR-master" t
     <img width="30px" src="https://i.imgur.com/9SYxvuZ.png" />
     <img width="30px" src="https://i.imgur.com/blHqzNC.png" />
     <img width="30px" src="https://i.imgur.com/GQsYRKR.png" />
+    <img width="30px" src="https://i.imgur.com/S2NV5II.png" />
   </kbd><br><br>
   <kbd>
     <kbd>Tools.. and other technologies</kbd>
