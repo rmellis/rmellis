@@ -1,10 +1,8 @@
 <table width="100%" border="0">
   <tbody>
     <tr>
-      <td colspan="3"><span style="font-size:20px"><strong>Hello 👋 </strong>I&#39;m<strong> rmellis. </strong>I make and contribute to a lot of software, manage lots of server things and create websites.<br />
-I&#39;ve worked with pretty much all aspects of computers, both hardware and software for over 15 years and I am confident with most things.<br />
-My current main project is <a href="https://github.com/rmellis/HelpUKR-master" target="_blank"><strong><em>rmellis/HelpUKR-Master</em></strong></a>, A project that allows people to flood russian propaganda using targets set by the IT Army of Ukraine from any device with a browser using the url <a href="http://www.HelpUKR.xyz">www.HelpUKR.xyz</a><br />
-<strong> &nbsp; &nbsp; &nbsp; Below is a cobbled together list of some stuff I&#39;m furmilliar with:</strong></span><p style="display: inline-block;" align="center">
+      <td colspan="3"><span style="font-size:20px"><strong>Hello 👋 </strong>I&#39;m<strong> rmellis</strong>, a software developer, server administrator, and web designer. I have more than 15 years of experience in working with almost all aspects of computers, both hardware and software. I’m proficient in many things related to technology.<br> My current main project is <a href="https://github.com/rmellis/HelpUKR-master" target="_blank"><strong><em>rmellis/HelpUKR-Master</em></strong></a>,a project that enables people to counter Russian propaganda using targets set by the IT Army of Ukraine from any device with a browser using the url <a href="http://www.HelpUKR.xyz">www.HelpUKR.xyz</a><br />
+<strong> &nbsp; &nbsp; &nbsp; Below is a cobbled together summary of some of the skills and technologies I’m familiar with</strong></span><p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Scripting & Programming Languages</kbd>
     <br>
