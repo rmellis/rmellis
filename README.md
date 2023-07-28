@@ -65,6 +65,10 @@ My current main project is <a href="https://github.com/rmellis/HelpUKR-master" t
     <img width="30px" src="https://i.imgur.com/tQEiyK0.png" />
     <img width="30px" src="https://i.imgur.com/0S53w0n.png" />
     <img width="30px" src="https://i.imgur.com/yX9J9A4.png" />
+    <img width="30px" src="https://i.imgur.com/LeQQqGh.png" />
+    <img width="30px" src="https://i.imgur.com/9SYxvuZ.png" />
+    <img width="30px" src="https://i.imgur.com/blHqzNC.png" />
+    <img width="30px" src="https://i.imgur.com/GQsYRKR.png" />
   </kbd><br><br>
   <kbd>
     <kbd>Tools.. and other technologies</kbd>
@@ -89,7 +93,7 @@ My current main project is <a href="https://github.com/rmellis/HelpUKR-master" t
   </kbd>
   </kbd>
 </p>
-  <p style="text-align:center"><span style="font-size:20px">Below are some statistics for my GitHub usage, contributions, start, commits, Pull Requests and issues:</span></p></td>
+  <p style="text-align:center"><span style="font-size:20px">Below are some statistics for my GitHub usage, contributions, commits, Pull Requests and issues:</span></p></td>
     </tr>
     <tr>
       <td colspan="2"><img alt="Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmellis&theme=vue" width="100%" /></td>
