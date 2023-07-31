@@ -115,7 +115,7 @@
       <td colspan="3"></td>
     </tr>
     <tr>
-      <td colspan="3"></td>
+      <td colspan="3" align="center"><img alt="Top Langs" src="https://myreadme.vercel.app/api/embed/rmellis?panels=userstatistics,toplanguages,commitgraph,toprepositories" width="90%" /></td>
     </tr>
     <tr>
       <td colspan="3"></td>
