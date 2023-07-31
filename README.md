@@ -112,7 +112,16 @@
       <td colspan="2"><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rmellis" width="100%" style="margin-right: 5px"/></td>
     </tr>
     <tr>
-      <td colspan="3">&nbsp;</td>
+      <td colspan="3"></td>
+    </tr>
+    <tr>
+      <td colspan="3"></td>
+    </tr>
+    <tr>
+      <td colspan="3"></td>
+    </tr>
+    <tr>
+      <td colspan="3"><img alt="GitHub Streak" src="https://github-profile-trophy.vercel.app/?username=rmellis&column=7&theme=nord&margin-w=4&no-frame=true" width="100%" style="margin-right: 5px"/></td>
     </tr>
   </tbody>
 </table>
