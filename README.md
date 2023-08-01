@@ -102,7 +102,7 @@
     </tr>
     <tr>
       <td colspan="2"><img alt="Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmellis&theme=vue" width="100%" /></td>
-      <td width="33%"><img alt="Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rmellis&theme=github" width="100%" /></td>
+      <td width="34%"><img alt="Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rmellis&theme=github" width="100%" /></td>
     </tr>
     <tr>
       <td colspan="3"></td>
@@ -115,7 +115,8 @@
       <td colspan="3"></td>
     </tr>
     <tr>
-      <td colspan="3" align="center"><img alt="Top Langs" src="https://myreadme.vercel.app/api/embed/rmellis?panels=userstatistics,toplanguages,commitgraph,toprepositories" width="90%" /></td>
+      <td colspan="2" align="center"><img alt="Top Langs" src="https://myreadme.vercel.app/api/embed/rmellis?panels=userstatistics,toplanguages,toprepositories" width="100%" /></td>
+      <td align="center">&nbsp;</td>
     </tr>
     <tr>
       <td colspan="3"></td>
