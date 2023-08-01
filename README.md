@@ -116,7 +116,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center"><img alt="Top Langs" src="https://myreadme.vercel.app/api/embed/rmellis?panels=userstatistics,toplanguages,toprepositories" width="100%" /></td>
-      <td align="center">&nbsp;</td>
+      <td align="center"><a href="https://www.helpukr.xyz" target="_blank"><img src="https://i.imgur.com/8DTnyPi.png" width="317" height="210" alt="HelpUKR"/></a></td>
     </tr>
     <tr>
       <td colspan="3"></td>
