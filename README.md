@@ -122,14 +122,14 @@
       <td colspan="3"></td>
     </tr>
     <tr>
-      <td colspan="3"></td>
-    </tr>
-    <tr>
-      <td colspan="3"></td>
-    </tr>
-    <tr>
-      <td colspan="3"> <img src="https://i.imgur.com/7NBFlUx.png" style="margin-right: 5px"/>
+      <td colspan="3"><img src="https://i.imgur.com/7NBFlUx.png" style="margin-right: 5px"/>
         <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=rmellis&column=7&margin-w=6&no-frame=false&theme=flat" width="100%" style="margin-right: 5px"/></td>
+    </tr>
+    <tr>
+      <td colspan="3"></td>
+    </tr>
+    <tr>
+      <td colspan="3"> </td>
     </tr>
   </tbody>
 </table>
